@@ -1,4 +1,4 @@
-# -Learning-Tableau
+# Learning Tableau
 Thanks for downloading the code repository for the book, [Learning Tableau] (https://www.packtpub.com/big-data-and-business-intelligence/learning-tableau?utm_source=github&utm_medium=repository&utm_campaign=9781784391164), published by [Packt Publishing] (https://www.packtpub.com/?utm_source=github&utm_medium=repository&utm_campaign=9781784391164) on April 2015.
 Leverage the power of Tableau 9.0 to design rich data visualizations and build fully interactive dashboards 
 
